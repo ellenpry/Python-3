@@ -1,6 +1,5 @@
 # Análise de dados em uma Tupla
 
-
 tupla = (int(input('Digite um valor: ')), int(input('Digite outro valor: ')), int(input('Digite mais um valor: ')), int(input('Digite o último valor: ')))
 print(f'Você digitou os valores:', end = ' ')
 for n in tupla: 
@@ -16,14 +15,3 @@ print(f'Os valores pares digitados foram:', end = ' ')
 for n in tupla:
     if n % 2 == 0:
         print(n, end = ' ')
-# if tupla[0] % 2 == 0:
-#     print(tupla[0], end = ' ')
-# if tupla[1] % 2 == 0:
-#     print(tupla[1], end = ' ')      # também fiz muito embolado
-# if tupla[2] % 2 == 0:
-#     print(tupla[2], end = ' ')
-# if tupla[3] % 2 == 0:
-#     print(tupla[3])
-
-    
-

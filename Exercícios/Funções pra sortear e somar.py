@@ -19,7 +19,6 @@ def soma(lista):
             s += n 
     print(f'\nSomando os valores pares de {lista}, temos {s}!')
         
-
-
+# main
 sorteio()
 soma(numeros)

@@ -19,4 +19,3 @@ print()
 for k, v in dados.items():
     print(f'{k.title()} tem o valor {v}')
 print()
-    

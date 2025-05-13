@@ -57,6 +57,4 @@ while True:
                             print(f'No {cont}° jogo fez {gol} gols.')
                             cont += 1
     else:
-        print(f'ERRO! Não existe jogador com o código {esc}. Tente novamente!')            
-                    
-    
+        print(f'ERRO! Não existe jogador com o código {esc}. Tente novamente!')                             

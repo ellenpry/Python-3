@@ -9,11 +9,3 @@ for p in palavras:
     for l in p:
         if l in vogais:
             print(l, end = ' ')
-
-    
-    
-    
-
-
-
-

@@ -28,4 +28,3 @@ valores.sort()
 for v in valores:
     print(f'{cor["pink"]}{v}', end = ' ')
 print(f'{cor["clean"]}')
-

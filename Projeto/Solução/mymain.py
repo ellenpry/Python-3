@@ -9,7 +9,7 @@ cor = {'clean': '\033[m',
        'pink': '\033[35m', 
        'blue': '\033[36m'}
 
-from pydefs import entrada
+from mydefs import entrada
 
 entrada()
 

@@ -31,4 +31,3 @@ for k, v in filmes.items():
 #res: O titulo é Star Wars
 #     O ano é 1977
 #     O diretor é George Lucas
-
